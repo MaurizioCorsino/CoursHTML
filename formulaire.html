@@ -8,11 +8,21 @@
 	    
 Les champs avec une * sont obligatoires<br />
 <form method=”post” >
-	<label for="nom">Nom (4 à 12 caractères):</label><br />
+	<label for="nom">Nom (4 à 12 caractères) * :</label><br />
 	<input type="text" id="Nom" Nom="nom" required minlength="4" maxlength="12" size="10"> <br /><br />
-	<label for="prénom">Prénom (4 à 10 caractères):</label><br />
+	<label for="prénom">Prénom (4 à 10 caractères)  * :</label><br />
 	<input type="text" id="Prénom" Nom="prénom" required minlength="4" maxlength="10" size="10"><br /><br />
 	<input type=”submit” value=”Envoyer”>
+	<label for="adr">Adresse (4 à 20 caractères):</label><br />
+	<input type="text" id="Adresse" Adresse="adr" minlength="4" maxlength="20" size="22"><br /><br />
+
+	<label for="cp">CP (4 à 10 caractères):</label><br />
+	<input type="text" id="CP" CP="cp" required minlength="4" maxlength="6" size="8"><br /><br />
+	
+	<label for="email">Email (4 à 20 caractères) *:</label><br />
+	<input type="text" id="Email" Email="email" required minlength="4" maxlength="10" size="10"><br /><br />
+	
+	
 </form>
       
       
