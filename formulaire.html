@@ -19,6 +19,21 @@
 	
 	<label for="email">Email (4 à 20 caractères)*:</label><br /> <input type="text" id="Email" Email="email" required minlength="4" maxlength="10" size="10"><br /><br />
 	
+	
+      <label for="sujet">Sujets*</label> 
+          <select name="sujet" required>
+               <option value="tressatisfait">Trés satisfait</option>
+               <option value="satisfait" selected >Satisfait</option>
+               <option value="passatisfait">Pas satisfait</option>
+               <option value="pasdutoutsatisfait">Pas du tout satisfait</option>
+          </select>
+      <br />
+      <label for="insider_text">Champs libre*</label> 
+          <textarea name="insider_text" required>
+            mettez votre texte ici...
+          </textarea>
+      <br />
+	
 	<input type="submit" value="Envoyer">
 </form>
       
