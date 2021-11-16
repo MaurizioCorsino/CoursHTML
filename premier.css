@@ -1,4 +1,7 @@
 html, head { background-color: #C0FFC0; }
+html, a:link {
+    text-decoration:none; 
+   }
 
 header a  {
     color: yellow;
