@@ -1,1 +1,4 @@
 html, head { background-color: #C0FFC0; }
+html, h1 { color: brown; }
+html, article { color: green; }
+html, p { font-family: cursive; }
