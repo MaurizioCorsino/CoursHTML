@@ -18,8 +18,13 @@ article {
 p { 
     font-family: cursive; 
   }
+
 .navigation { 
     color: blue; 
+   }
+
+.vert { 
+    color: green; 
    }
 
 #premier { 
