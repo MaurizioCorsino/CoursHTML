@@ -1,4 +1,5 @@
 html, head { background-color: #C0FFC0; }
+
 html, a:link {
     text-decoration:none; 
    }
@@ -6,15 +7,19 @@ html, a:link {
 header a  {
     color: yellow;
    }
+
 a {
     color: red;
    }
+
 h2 {
     color: brown;
    }
+
 article { 
     color: green; 
    }
+
 p { 
     font-family: cursive; 
   }
