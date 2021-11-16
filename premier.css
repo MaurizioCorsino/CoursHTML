@@ -1,4 +1,7 @@
 html, head { background-color: #C0FFC0; }
+a {
+    color: red;
+   }
 h1 {
     color: brown;
    }
