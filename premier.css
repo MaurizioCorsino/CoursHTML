@@ -1,4 +1,7 @@
 html, head { background-color: #C0FFC0; }
+header a  {
+    color: pink;
+   }
 a {
     color: red;
    }
