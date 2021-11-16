@@ -11,3 +11,14 @@ article {
 p { 
     font-family: cursive; 
   }
+.navigation { 
+    color: blue; 
+   }
+
+#premier { 
+    color: green; 
+   }
+.navigation a { 
+    color: grey; 
+   }
+
