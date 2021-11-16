@@ -1,11 +1,12 @@
 html, head { background-color: #C0FFC0; }
+
 header a  {
     color: yellow;
    }
 a {
     color: red;
    }
-h1 {
+h2 {
     color: brown;
    }
 article { 
