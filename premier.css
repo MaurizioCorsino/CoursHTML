@@ -1,11 +1,8 @@
+/* ------------------- CSS generaux */
 html, head { background-color: #C0FFC0; }
 
 html, a:link {
     text-decoration:none; 
-   }
-
-header a  {
-    color: yellow;
    }
 
 a {
@@ -24,6 +21,7 @@ p {
     font-family: cursive; 
   }
 
+/* ------------------- CSS class */
 .navigation { 
     color: red; 
    }
@@ -32,17 +30,23 @@ p {
     color: green; 
    }
 
+.navigation a { 
+    color: grey; 
+   }
+
+/* ------------------- CSS Id */
 #premier { 
     color: purple; 
    }
-
 
 #second { 
     color: white; 
    }
 
-.navigation a { 
-    color: grey; 
+
+/* CSS ------------------- autres */
+header a  {
+    color: yellow;
    }
 
 footer p  {
