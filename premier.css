@@ -36,6 +36,10 @@ header a, footer a, footer p {
     color: white !important;
    }
 
+nav {
+    width: 500px;
+    background-color: grey;
+   }
 /* ------------------- CSS class */
 .navigation { 
     color: red; 
