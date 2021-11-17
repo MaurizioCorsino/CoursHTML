@@ -31,7 +31,7 @@ article h2 {
 article img { 
     width: 30%;
     float: right;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
    }
 
 article { 
@@ -109,6 +109,6 @@ footer p  {
    }
 
 article img  {
-    margin: 20px 0px 0px 0px;
+    margin: 20px 0px 0px 20px;
     }
 
