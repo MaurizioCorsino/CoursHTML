@@ -28,6 +28,12 @@ article h2 {
     margin-bottom: 20px;
    }
 
+div img a { 
+    width: 30%;
+    float: right;
+   }
+
+
 article img { 
     width: 30%;
     float: right;
