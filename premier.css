@@ -20,15 +20,20 @@ article {
 article h2 { 
     color: black; 
     font-family: Arial, sans-serif;
-    margin: 0px 0px 40px 0px;
+    margin-bottom: 20px;
    }
 
 article img { 
-    position: relative;
-    top: 0px; left: 80px;
     width: 30%;
    }
 
+article { 
+    border-top: 1px solid black;
+   }
+
+article:fisrt-child { 
+    border-top: 0px;
+   }
 
 p { 
     font-family: cursive; 
