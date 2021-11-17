@@ -17,6 +17,12 @@ article {
     color: green; 
    }
 
+article h2 { 
+    color: black; 
+    font-family: Arial, sans-serif;
+    margin: 0px 0px 40px 0px;
+   }
+
 p { 
     font-family: cursive; 
   }
