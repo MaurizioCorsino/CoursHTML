@@ -33,7 +33,7 @@ p {
 .navigation a { 
     color: grey; 
    }
-.no_bullet li {
+.no_bullet {
     list-style-type: none;
     }
 /* ------------------- CSS Id */
