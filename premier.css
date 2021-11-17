@@ -25,7 +25,8 @@ article h2 {
 
 article img { 
     position: relative;
-    top: 40px; right: 0px;
+    top: 80px; right: 0px;
+    width: 30%;
    }
 
 
