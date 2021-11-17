@@ -21,6 +21,24 @@ p {
     font-family: cursive; 
   }
 
+section { 
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+footer {
+    color: white;
+    padding-left: 20px;
+    background-color: black;
+   }
+
+header {
+    color: white;
+    padding-left: 20px;
+    background-color: black;
+   }
+
 /* ------------------- CSS class */
 .navigation { 
     color: red; 
